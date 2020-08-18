@@ -51,7 +51,7 @@ public class FirstActivity extends AppCompatActivity {
         num2.setText(numb2);
 
 
-        //convert to intet=rger valus
+       
 
         no1= Integer.parseInt(numb1);
         no2 = Integer.parseInt(numb2);
